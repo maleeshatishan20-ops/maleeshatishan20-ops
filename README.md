@@ -1,19 +1,95 @@
-<h1 align="center">Hi 👋, I'm Maleesha Tishan</h1>
-<h3 align="center">I am a Software Engineer</h3>
+<!--
+✨ Ultimate Beautiful GitHub Profile README
+Designed for Maleesha Tishan
+-->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=maleesha&label=Profile%20views&color=0e75b6&style=flat" alt="maleesha" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maleesha" alt="maleesha" /></a> </p>
-
-- 📫 How to reach me **maleeshatishan20@gmail.com**
-
-- ⚡ Fun fact **MTJ**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- 3D Animated Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/main/3D%20Banner.gif" width="100%" alt="3D Banner"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<h1 align="center">👋 𝐇𝐞𝐲,<span style="color:#00FFFF;">𝐈'𝐦 𝐌𝐚𝐥𝐞𝐞𝐬𝐡𝐚 𝐓𝐢𝐬𝐡𝐚𝐧 💎</span></h1>
+<h3 align="center">✨ 𝐈 𝐚𝐦 𝐚 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 ✨
+</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maleesha&show_icons=true&locale=en" alt="maleesha" /></p>
+---
+
+### 🧠 About Me
+- 🌱 I’m currently learning **Java Spring Boot & React**
+- 💬 Ask me about **Java, Databases, and REST APIs**
+- 📫 Reach me at: **maleeshatishan20@gmail.com**
+- ⚡ Fun fact: *I debug code better with coffee ☕*
+
+---
+
+### 🪩 My Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,html,css,js,mysql,git,github,figma,postman,vscode,intellij" />
+</p>
+
+---
+
+### 📊 My GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maleesha&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maleesha&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maleesha&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🐍 Contribution Graph Animation
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+### 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=maleesha&theme=darkhub&margin-w=15&no-bg=true&no-frame=true" />
+</p>
+
+---
+
+### 🔥 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maleesha&theme=react-dark&bg_color=0d1117&hide_border=true" width="95%" alt="activity graph"/>
+</p>
+
+---
+
+### 💫 Featured Projects
+| 🚀 Project | 🔍 Description | 🔗 Link |
+|-------------|----------------|----------|
+| **E-Commerce Store** | Spring Boot + React full-stack app | [View Repo](#) |
+| **Portfolio Website** | Modern personal portfolio | [View Repo](#) |
+| **Student Management** | Java + Hibernate CRUD | [View Repo](#) |
+| **Chat App** | Node.js + Socket.io real-time chat | [View Repo](#) |
+
+---
+
+### 🧩 Fun & Design Section
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,html,css,js,php,mysql,git,github,docker&perline=6" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+<p align="center">
+  <a href="https://github.com/maleesha"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/maleesha"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:maleeshatishan20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/maleesha"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+---
+
+### 💬 Quote
+> “Code is like art; it becomes beautiful only when written with passion.”  
+
+⭐ *Designed by [Maleesha Tishan](https://github.com/maleesha) — Inspired by Kaveen Dinethma's layout*
